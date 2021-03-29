@@ -1,0 +1,5 @@
+.input*.txt.un~
+*input*.txt
+*output*.txt
+a.exe
+.vscode/*
